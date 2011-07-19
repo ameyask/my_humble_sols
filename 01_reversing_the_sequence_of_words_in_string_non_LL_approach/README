@@ -1,0 +1,11 @@
+Problem Statement: 
+Given a string, reverse the sequence of words. Linked List is not to be used.
+
+Example Run:
+For input sentence: "switch the sentence" ; 
+the output should be "sentence the switch"
+
+How to compile
+$ make clean
+$ make 
+$ ./tryrev
